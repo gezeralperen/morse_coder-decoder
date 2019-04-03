@@ -17,4 +17,4 @@ Run server with the code
 
 *"python server.py"*
 
-Log.csv will keep the track of the clients who connected and disconnected. Do not open the Log.csv while program is running, authentication problems may occur.
+Log.csv will keep the track of the clients who connected and disconnected. Do not open Log.csv while program is running, authentication problems may occur.

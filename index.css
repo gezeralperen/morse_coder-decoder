@@ -1,0 +1,12 @@
+html, body {
+  font-size: 24px; 
+  font-size: 2vw;
+  text-align: center;
+  padding: 0;
+  margin-top: 2.5%;
+}
+input {
+  text-align: center;
+  font-size: 24px; 
+  font-size: 2vw;
+}

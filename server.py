@@ -31,6 +31,7 @@ def disconnect(sid):
         if(row[2] == sid):
             row.append(str(datetime.datetime.now()))
             writer.writerow(row)
+            del row
     print(sid + ' Disconnected at ' + str(datetime.datetime.now()))
 
 
